@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+
+# Ignore large data and model files if necessary
+# data/
+# models/
+catboost_info/
+
+# Ignore all results except the specific ones
+results/*
+!results/prediction_history.csv
+!results/feature_importance.png

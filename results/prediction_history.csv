@@ -1,0 +1,5 @@
+Gene,Variant,Drug,Drug Class,Variant_impact,guideline_exists,evidence_level_num,gene_drug,variant_drug,gene_variant,Predicted_Phenotype,Timestamp
+CYP2C9,rs1799853,Warfarin,Anticoagulant,Pathogenic,1,2,CYP2C9*Warfarin,rs1799853*Warfarin,CYP2C9_rs1799853,Normal_Response,2026-03-05 20:23:27
+HLA-B,rs2395029,abacauir,Antiviral,Pathogenic,1,3,HLA-B*abacauir,rs2395029*abacauir,HLA-B_rs2395029,Adverse_Reaction,2026-03-06 18:15:17
+CYP2C19,rs12248560,Clopidogrel,Antiplatelet,Likely Pathogenic,1,3,CYP2C19*Clopidogrel,rs12248560*Clopidogrel,CYP2C19_rs12248560,Adverse_Reaction,2026-03-06 18:17:48
+HLA-B,rs2395029,Abacavir,Antiviral,Pathogenic,1,3,HLA-B*Abacavir,rs2395029*Abacavir,HLA-B_rs2395029,Adverse_Reaction,2026-03-06 19:04:08
